@@ -1,0 +1,1 @@
+This folder contains introduction and 1st lecture on Github.
