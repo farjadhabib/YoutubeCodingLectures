@@ -1,0 +1,1 @@
+This lecture discusses Responsive UI and bootstrap usage.

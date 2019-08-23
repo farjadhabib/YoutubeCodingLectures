@@ -1,0 +1,1 @@
+This lecture is introduction to javascript and gives a slight flavor of javascript usage.
