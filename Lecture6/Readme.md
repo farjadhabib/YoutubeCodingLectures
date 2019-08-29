@@ -1,0 +1,1 @@
+This lecture covers basic javascript concepts such as variables, loops, conditions etc
