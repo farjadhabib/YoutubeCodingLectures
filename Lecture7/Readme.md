@@ -1,0 +1,1 @@
+This repo contains slides for lecture 7
